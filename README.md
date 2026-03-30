@@ -42,7 +42,7 @@
 
 ```bash
 # Clone repository / 克隆仓库
-git clone https://github.com/cx20030628/Generative_VLM.git
+git clone https://github.com/chenxi-001-666/Generative_VLM.git
 cd Generative_VLM
 
 # Install dependencies / 安装依赖
